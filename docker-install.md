@@ -4,7 +4,7 @@
 
  #!/bin/bash
 
- # Update package list
+ #Update package list
 sudo apt update
 
 # Install necessary packages
