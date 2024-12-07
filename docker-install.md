@@ -1,5 +1,4 @@
 # DOCKER INSTALLATION
-==
 
 
  #!/bin/bash
