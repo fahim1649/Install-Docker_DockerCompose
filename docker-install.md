@@ -1,3 +1,6 @@
+# DOCKER INSTALLATION
+=====================
+
 #!/bin/bash
 
 # Update package list
