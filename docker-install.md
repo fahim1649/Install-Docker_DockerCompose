@@ -1,9 +1,10 @@
 # DOCKER INSTALLATION
-=====================
+======
 
-#!/bin/bash
 
-# Update package list
+ #!/bin/bash
+
+ # Update package list
 sudo apt update
 
 # Install necessary packages
