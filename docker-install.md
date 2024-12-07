@@ -1,6 +1,6 @@
 # DOCKER INSTALLATION
 
-
+```javascript
  #!/bin/bash
 
 #Update package list
@@ -39,3 +39,4 @@ chmod +x ~/.docker/cli-plugins/docker-compose
 
 #Check Docker Compose version
 docker compose version
+```
