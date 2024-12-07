@@ -4,10 +4,10 @@
 
  #!/bin/bash
 
- #Update package list
+#Update package list
 sudo apt update
 
-# Install necessary packages
+#Install necessary packages
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
 
 # Add Docker's official GPG key
